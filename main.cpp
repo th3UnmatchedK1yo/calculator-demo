@@ -163,3 +163,6 @@ int main()
 	system("pause");
 	return 0;
 }
+
+
+/* make a lib or smthing alike*/
